@@ -30,3 +30,16 @@ user_pref("font.name.monospace.ko", "Maple Mono NF CN");
 user_pref("font.name.sans-serif.ko", "Noto Sans CJK KR");
 user_pref("font.name.serif.ko", "Noto Serif CJK KR");
 user_pref("font.default.ko", "sans-serif");
+
+// ===== en (英文網站) =====
+user_pref("font.name.monospace.x-western", "Maple Mono NF CN");
+user_pref("font.name.sans-serif.x-western", "Noto Sans CJK TC");
+user_pref("font.name.serif.x-western", "Noto Serif CJK TC");
+user_pref("font.default.x-western", "sans-serif");
+
+
+// ===== x-unicode =====
+user_pref("font.name.monospace.x-unicode", "Maple Mono NF CN");
+user_pref("font.name.sans-serif.x-unicode", "Noto Sans CJK TC");
+user_pref("font.name.serif.x-unicode", "Noto Serif CJK TC");
+user_pref("font.default.x-unicode", "sans-serif");
